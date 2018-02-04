@@ -5,6 +5,6 @@ Vedi:
 
 MyHome-Node-Red/Node-Red Program.png
 
-[https://github.com/eziologico/MyHome-Node-Red/](Node-Red Program.png)
+[https://github.com/eziologico/MyHome-Node-Red/](Node-Red\ Program.png)
 
 MyHome-Node-Red/Node-Red UI.png
